@@ -1,0 +1,15 @@
+C:\Users\Валерия\source\repos\Clinic\bin\Debug\net6.0\Clinic.exe
+C:\Users\Валерия\source\repos\Clinic\bin\Debug\net6.0\Clinic.deps.json
+C:\Users\Валерия\source\repos\Clinic\bin\Debug\net6.0\Clinic.runtimeconfig.json
+C:\Users\Валерия\source\repos\Clinic\bin\Debug\net6.0\Clinic.dll
+C:\Users\Валерия\source\repos\Clinic\bin\Debug\net6.0\Clinic.pdb
+C:\Users\Валерия\source\repos\Clinic\obj\Debug\net6.0\Clinic.csproj.AssemblyReference.cache
+C:\Users\Валерия\source\repos\Clinic\obj\Debug\net6.0\Clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерия\source\repos\Clinic\obj\Debug\net6.0\Clinic.AssemblyInfoInputs.cache
+C:\Users\Валерия\source\repos\Clinic\obj\Debug\net6.0\Clinic.AssemblyInfo.cs
+C:\Users\Валерия\source\repos\Clinic\obj\Debug\net6.0\Clinic.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\source\repos\Clinic\obj\Debug\net6.0\Clinic.dll
+C:\Users\Валерия\source\repos\Clinic\obj\Debug\net6.0\refint\Clinic.dll
+C:\Users\Валерия\source\repos\Clinic\obj\Debug\net6.0\Clinic.pdb
+C:\Users\Валерия\source\repos\Clinic\obj\Debug\net6.0\Clinic.genruntimeconfig.cache
+C:\Users\Валерия\source\repos\Clinic\obj\Debug\net6.0\ref\Clinic.dll
